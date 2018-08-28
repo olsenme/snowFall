@@ -26,3 +26,4 @@ cmd 	::= 	pen mode 	change pen mode
   <li> implements a list of lines to draw  </li>
   <li> implement ```cmd```, the semantic function for MiniMiniLogo commands (Cmd)</li>
   <li>Implement prog, the semantic function for MiniMiniLogo programs (Prog). </li>
+</ul>	
