@@ -7,4 +7,4 @@ MiniMiniLogo language for programming 2D graphics using Haskell
 2) ```cd <your directory>``` <br>
 3) ```ghci``` <br>
 4) ```:l (name of file(no extensions))``` <br>
-5) run ```draw snowFall, snowWall, etc``` <br>
+5) ```draw snowFall, snowWall, etc``` <br>
