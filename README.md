@@ -10,4 +10,4 @@
 5) ```draw snowFall, snowWall, etc``` <br>
 
 # Dicussion
-MiniMiniLogo language for programming 2D graphics using Haskell
+We used Haskell and MiniMiniLogo, a derviative of the the <a href"http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html">Logo language </a> and Haskell
