@@ -10,4 +10,4 @@
 5) ```draw snowFall, snowWall, etc``` <br>
 
 # Dicussion
-We used Haskell and MiniMiniLogo, a derviative of the the <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html">Logo language </a> and Haskell
+We used a Haskell implementation of MiniMiniLogo, a derviative of the the <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html">Logo language </a> and Haskell.
