@@ -1,4 +1,6 @@
 # snowFall Program
+By Meagan Olsen, Kevin Deming, and Alex Bailey
+
  Implement semantics of MiniMiniLogo Language that generates a drawn picture.
 
 # Instructions
